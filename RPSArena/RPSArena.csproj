@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- AÑADE ESTA LÍNEA PARA DESACTIVAR ADVERTENCIAS DE NULL -->
+    <NoWarn>CS8618;CS8625;CS8765;CS8603;CS8604;CS0169;CS0067</NoWarn>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\bin\Debug\net8.0-windows\RPSArena.exe
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\bin\Debug\net8.0-windows\RPSArena.deps.json
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\bin\Debug\net8.0-windows\RPSArena.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\bin\Debug\net8.0-windows\RPSArena.dll
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\bin\Debug\net8.0-windows\RPSArena.pdb
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\obj\Debug\net8.0-windows\RPSArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\obj\Debug\net8.0-windows\RPSArena.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\obj\Debug\net8.0-windows\RPSArena.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\obj\Debug\net8.0-windows\RPSArena.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\obj\Debug\net8.0-windows\RPSArena.dll
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\obj\Debug\net8.0-windows\refint\RPSArena.dll
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\obj\Debug\net8.0-windows\RPSArena.pdb
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\obj\Debug\net8.0-windows\RPSArena.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ProyectosCS\RPSArena\obj\Debug\net8.0-windows\ref\RPSArena.dll

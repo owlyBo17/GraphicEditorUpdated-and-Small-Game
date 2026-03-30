@@ -1,0 +1,6 @@
+# Archivos de compilacion 
+bin/ 
+obj/ 
+*.user 
+*.suo 
+*.cache 
